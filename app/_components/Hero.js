@@ -4,7 +4,7 @@ import Constant from '../_utils/Constant'
 function Hero() {
     return (
         <div><section className="bg-white text-black">
-            <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen ">
+            <div className="mx-auto max-w-screen-xl px-4 py-20 lg:flex  ">
                 <div className="mx-auto max-w-3xl text-center">
                     <h1
                         className="bg-gradient-to-r from-blue-900 via-blue-700 to-primary bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
