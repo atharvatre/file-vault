@@ -9,7 +9,7 @@ function About() {
                     <div className="flex flex-wrap ">
                         <div className="w-full px-4 mb-10 lg:w-1/2 lg:mb-0">
                             <div className="relative lg:max-w-md">
-                                <Image src='/VIT.png' width={340} height={340} />
+                                <Image src='/atharv.jpg' width={340} height={340} />
 
                             </div>
                         </div>
@@ -30,7 +30,7 @@ function About() {
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                 Lorem ipsum dolor sit amet.
                             </p>
-                            <a href="#" className="px-4 py-2 text-gray-100 bg-blue-500 rounded dark:bg-blue-400 dark:hover:bg-blue-500 hover:bg-blue-600">
+                            <a href="https://darthfolio.vercel.app/" className="px-4 py-2 text-gray-100 bg-blue-500 rounded dark:bg-blue-400 dark:hover:bg-blue-500 hover:bg-blue-600">
                                 Learn more
                             </a>
                         </div>
